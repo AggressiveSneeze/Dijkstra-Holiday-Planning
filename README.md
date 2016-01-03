@@ -17,7 +17,7 @@ Decided whether you want cultural/outdoor activities.
 Program will then output the cheapest destination that satisfies the constraints, as well as provide you with the path.
 
 
-In greater detail:
+#In greater detail:
 
 
 Bullet point run through of the how the program works:
