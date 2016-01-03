@@ -6,6 +6,20 @@ Design document:
 
 Author: James Adams
 
+#TL;DR:
+
+Compile using the given make file with the command 'make'.
+Run via "./holiday places costs" where places and costs are the files which contain the relevant records. 
+Example places and costs files have been provided.
+Enter your starting point as one of the cities in the places file.
+Enter your preferred continent.
+Decided whether you want cultural/outdoor activities.
+Program will then output the cheapest destination that satisfies the constraints, as well as provide you with the path.
+
+
+In greater detail:
+
+
 Bullet point run through of the how the program works:
 
 * Compile via make holiday
